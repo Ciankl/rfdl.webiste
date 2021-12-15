@@ -1,0 +1,24 @@
+table.TBL{
+   
+    
+}
+
+table.TBL th{
+    background-color: red;
+    color: white;
+    
+}
+table.TBL table{
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+table.TBL th{
+    width; 150px;
+    text-align: center;
+    border: 1px solid red;
+    padding: 5px;
+}
+table.TBL td{
+    background-color: white;
+    color: black;
+}

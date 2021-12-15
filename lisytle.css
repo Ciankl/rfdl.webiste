@@ -1,0 +1,71 @@
+html{
+    background: url(images/group_wheelie.jpg);
+    background-position: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h1{
+    width; 220px;
+    text-align: center;
+    color: red;
+    font-size: 22px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+#text{
+    width: 300px;
+    height: 25px;
+    background: transparent;
+    border-bottom: 1px solid red;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    }
+#button{
+    width: 300px;
+    height: 40px;
+    background: red;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    transition: 0.4s ease;
+    align-items: flex-start;
+    text-align: center;
+    
+}
+#button:hover{
+    background: white;
+    color: red
+   
+}
+
+#box{
+        background-color: black;
+        background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
+        margin: auto;
+        width: 300px;
+        padding: 20px;
+        padding-bottom: 150px;
+       }
+a{
+    color: red;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}

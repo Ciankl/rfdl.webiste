@@ -1,0 +1,120 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+    background: black;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+    
+}
+img.img-wheelie{
+   position: relative;
+    left: 350px;
+    top: -390px;
+}
+
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color: red;
+    font-size: 35px;
+    padding-left: -80px;
+    float: left;
+    padding-top: 0px;       
+}
+
+logof{
+    position: relative;
+    top: left;
+}
+
+.pp{
+    color: white;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: red
+}
+
+
+
+.content{
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    color: white;
+    position: relative;
+}
+
+.content .par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    
+}
+
+.content h1{
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+}
+
+#text{
+    position: relative;
+    left: 50px;
+}
+
+p1{
+    color: white;
+    position: relative;
+    left: 630px;
+    bottom: 350px;
+    
+}
+
+p2{ 
+    color: black;
+    position: relative;
+    left: 1050;
+    bottom: 350;
+}
